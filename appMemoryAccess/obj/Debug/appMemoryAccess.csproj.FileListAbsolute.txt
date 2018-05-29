@@ -1,0 +1,10 @@
+c:\users\cccc1\onedrive\문서\visual studio 2017\Projects\appMemoryAccess\appMemoryAccess\bin\Debug\appMemoryAccess.exe.config
+c:\users\cccc1\onedrive\문서\visual studio 2017\Projects\appMemoryAccess\appMemoryAccess\bin\Debug\appMemoryAccess.exe
+c:\users\cccc1\onedrive\문서\visual studio 2017\Projects\appMemoryAccess\appMemoryAccess\bin\Debug\appMemoryAccess.pdb
+c:\users\cccc1\onedrive\문서\visual studio 2017\Projects\appMemoryAccess\appMemoryAccess\bin\Debug\MemoryEditor.dll
+c:\users\cccc1\onedrive\문서\visual studio 2017\Projects\appMemoryAccess\appMemoryAccess\obj\Debug\appMemoryAccess.csprojResolveAssemblyReference.cache
+c:\users\cccc1\onedrive\문서\visual studio 2017\Projects\appMemoryAccess\appMemoryAccess\obj\Debug\appMemoryAccess.Form1.resources
+c:\users\cccc1\onedrive\문서\visual studio 2017\Projects\appMemoryAccess\appMemoryAccess\obj\Debug\appMemoryAccess.Properties.Resources.resources
+c:\users\cccc1\onedrive\문서\visual studio 2017\Projects\appMemoryAccess\appMemoryAccess\obj\Debug\appMemoryAccess.csproj.GenerateResource.Cache
+c:\users\cccc1\onedrive\문서\visual studio 2017\Projects\appMemoryAccess\appMemoryAccess\obj\Debug\appMemoryAccess.exe
+c:\users\cccc1\onedrive\문서\visual studio 2017\Projects\appMemoryAccess\appMemoryAccess\obj\Debug\appMemoryAccess.pdb
